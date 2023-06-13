@@ -1,3 +1,3 @@
 # Swisstronik
 
-![www.swisstronik.com](./SWTR2.jpeg)
+![www.swisstronik.com](../SWTR2.jpeg)
