@@ -6,7 +6,7 @@ Swisstronik is a layer 1 solution built on top of Cosmos SDK which provides exce
 
 Swisstronik empowers developers with a range of powerful tools for seamless blockchain development. Leverage popular EVM tools like Solidity, along with essential development and testing tools such as Hardhat and Remix IDE. Interact effortlessly with the blockchain using well-known wallets like Metamask or Swisstronik wallet. Experience enhanced security and privacy with Intel SGX integration, ensuring a secure and private environment for your transactions and data.
 
-## **_Empowering Compliance, Privacy, and Scalability for Web 3.0 Applications_**
+## **Empowering Compliance, Privacy, and Scalability for Web 3.0 Applications**
 
 Swisstronik empowers Web 3.0 and traditional companies to easily construct KYC, AML, and DPR compliant products while maintaining a perfect balance between privacy, accountability, and decentralization. Here's how we enable this:
 
@@ -16,7 +16,7 @@ Swisstronik empowers Web 3.0 and traditional companies to easily construct KYC, 
 
 - We provide a comprehensive set of customizable non-custodial utilities (DID, ZK transactions, decentralized messenger, etc.) while focusing on Swisstronik blockchain interoperability and scalability. This allows businesses to rapidly deploy advanced applications with minimum costs.
 
-## **_Accelerate Your Development Journey with Swisstronik's Versatile Blockchain and Plug-and-Play Tools_**
+## **Accelerate Your Development Journey with Swisstronik's Versatile Blockchain and Plug-and-Play Tools**
 
 - The Swisstronik blockchain itself provides developers with a foundation to build various types of apps.
 
