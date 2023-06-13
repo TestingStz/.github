@@ -1,4 +1,4 @@
-# Swisstronik :switzerland: :link:
+# Swisstronik :link: :switzerland:
 
 Swisstronik is a layer 1 solution built on top of Cosmos SDK which provides exceptional scalability with up to 10,000 transactions per second and less than $0.1 in fees. It combines the scalability of Cosmos, the interoperability enabled by IBC (Inter Blockchain Communication Protocol), and providing an easy-to-use developer experience with EVM- compatibility.
 
