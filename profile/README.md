@@ -12,7 +12,7 @@ Swisstronik empowers developers with a range of powerful tools for seamless bloc
 
 Swisstronik empowers Web 3.0 and traditional companies to easily construct KYC, AML, and DPR compliant products while maintaining a perfect balance between privacy, accountability, and decentralization. Here's how we enable this:
 
-:map_right: - We develop a self-regulating network of top KYC and AML providers, regulatory bodies, and compliance partners per jurisdiction. This network enables seamless yet compliant cross-border operation of clients' applications built on Swisstronik.
+:mag_right: - We develop a self-regulating network of top KYC and AML providers, regulatory bodies, and compliance partners per jurisdiction. This network enables seamless yet compliant cross-border operation of clients' applications built on Swisstronik.
 
 :closed_lock_with_key: - We facilitate DPR compliance by allowing clients to keep sensitive data private and hidden through a unique combination of cutting-edge data protection methods: programmable protection technology based on Intel SGX and cryptographic protection technology based on Zero-knowledge proofs (zk-SNARKs).
 
