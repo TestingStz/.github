@@ -12,11 +12,11 @@ Swisstronik empowers developers with a range of powerful tools for seamless bloc
 
 Swisstronik empowers Web 3.0 and traditional companies to easily construct KYC, AML, and DPR compliant products while maintaining a perfect balance between privacy, accountability, and decentralization. Here's how we enable this:
 
-- We develop a self-regulating network of top KYC and AML providers, regulatory bodies, and compliance partners per jurisdiction. This network enables seamless yet compliant cross-border operation of clients' applications built on Swisstronik.
+💻 - We develop a self-regulating network of top KYC and AML providers, regulatory bodies, and compliance partners per jurisdiction. This network enables seamless yet compliant cross-border operation of clients' applications built on Swisstronik.
 
-- We facilitate DPR compliance by allowing clients to keep sensitive data private and hidden through a unique combination of cutting-edge data protection methods: programmable protection technology based on Intel SGX and cryptographic protection technology based on Zero-knowledge proofs (zk-SNARKs).
+📰 - We facilitate DPR compliance by allowing clients to keep sensitive data private and hidden through a unique combination of cutting-edge data protection methods: programmable protection technology based on Intel SGX and cryptographic protection technology based on Zero-knowledge proofs (zk-SNARKs).
 
-- We provide a comprehensive set of customizable non-custodial utilities (DID, ZK transactions, decentralized messenger, etc.) while focusing on Swisstronik blockchain interoperability and scalability. This allows businesses to rapidly deploy advanced applications with minimum costs.
+:books: - We provide a comprehensive set of customizable non-custodial utilities (DID, ZK transactions, decentralized messenger, etc.) while focusing on Swisstronik blockchain interoperability and scalability. This allows businesses to rapidly deploy advanced applications with minimum costs.
 
 ## **Accelerate Your Development Journey with Swisstronik's Versatile Blockchain and Plug-and-Play Tools**
 
