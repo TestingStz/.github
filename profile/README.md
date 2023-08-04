@@ -1,29 +1,37 @@
-# Swisstronik :link: :switzerland:
+# Welcome to Swisstronik 🚀
 
-Swisstronik is a layer 1 solution built on top of Cosmos SDK which provides exceptional scalability with up to 10,000 transactions per second and less than $0.1 in fees. It combines the scalability of Cosmos, the interoperability enabled by IBC (Inter Blockchain Communication Protocol), and providing an easy-to-use developer experience with EVM- compatibility.
+![Swisstronik Logo](https://i.ibb.co/KFmBbrF/SWTR2.jpg)
 
-![www.swisstronik.com](https://i.ibb.co/KFmBbrF/SWTR2.jpg)
+## Swisstronik Testnet 1.0: Privacy-Preserving Smart Contracts 🔒
 
-Swisstronik empowers developers with a range of powerful tools for seamless blockchain development. Leverage popular EVM tools like Solidity, along with essential development and testing tools such as Hardhat and Remix IDE. Interact effortlessly with the blockchain using well-known wallets like Metamask or Swisstronik wallet. Experience enhanced security and privacy with Intel SGX integration, ensuring a secure and private environment for your transactions and data.
+Swisstronik Testnet 1.0 introduces a groundbreaking approach to building and deploying encrypted, privacy-preserving smart contracts. With a strong focus on privacy, compatibility, security, and ease of use, this testnet is designed to revolutionize your development experience.
 
-## **Empowering Compliance, Privacy, and Scalability for Web 3.0 Applications**
+### Core Features of Swisstronik Testnet 1.0
 
-<sub>THIS IS JUST A SAMPLE TEXT</sub>
+- **Enhanced Privacy with Intel SGX Enclaves**: Unlike conventional blockchain networks, Swisstronik ensures absolute privacy by executing its EVM module within secure Intel SGX enclaves. Validators perform transactions within these enclaves, protecting your data against insider attacks, front-running, and malicious node activities.
 
-Swisstronik empowers Web 3.0 and traditional companies to easily construct KYC, AML, and DPR compliant products while maintaining a perfect balance between privacy, accountability, and decentralization. Here's how we enable this:
+- **CometBFT Consensus Algorithm**: Swisstronik Testnet 1.0 employs the CometBFT consensus algorithm, ensuring secure agreement on transaction order and validity among validators. This PoS-based consensus is environmentally friendly.
 
-:mag_right: - We develop a self-regulating network of top KYC and AML providers, regulatory bodies, and compliance partners per jurisdiction. This network enables seamless yet compliant cross-border operation of clients' applications built on Swisstronik.
+- **SwisstronikJS Library**: Safeguard data confidentiality using SwisstronikJS library functions like `sendShieldedTransaction` and `sendShieldedQuery`.
 
-:closed_lock_with_key: - We facilitate DPR compliance by allowing clients to keep sensitive data private and hidden through a unique combination of cutting-edge data protection methods: programmable protection technology based on Intel SGX and cryptographic protection technology based on Zero-knowledge proofs (zk-SNARKs).
+- **Faucet:**: Test Swisstronik's features using free SWTR tokens from our testnet [EVM & Cosmos Faucet](https://faucet.testnet.swisstronik.com/). 
 
-:books: - We provide a comprehensive set of customizable non-custodial utilities (DID, ZK transactions, decentralized messenger, etc.) while focusing on Swisstronik blockchain interoperability and scalability. This allows businesses to rapidly deploy advanced applications with minimum costs.
+- **EVM Compatibility**: Seamlessly migrate Ethereum-based applications and smart contracts to Swisstronik Testnet 1.0, which is fully compatible with the Ethereum Virtual Machine.
 
-## **Accelerate Your Development Journey with Swisstronik's Versatile Blockchain and Plug-and-Play Tools**
+- **User-Friendly Block Explorers**: Explore the Swisstronik network with our intuitive Cosmos Blockchain Explorer and dedicated EVM Block Explorer.
 
-<sub>THIS IS JUST A SAMPLE TEXT</sub>
+- **Unencrypted Logs for Smart Contract Testing**: Analyze smart contract events for effective testing.
 
-- The Swisstronik blockchain itself provides developers with a foundation to build various types of apps.
+- **Staking for Validators & Governance**: Secure the network by staking SWTR tokens and participate in protocol upgrades and improvements.
 
-- A wide range of plug-and-play utilities are available for developers to speed up and simplify their development process. These utilities, such as DID solutions, ZK transfers, decentralized oracles, bridges, and decentralized messenger, are built directly into Swisstronik's nodes, eliminating the need for separate deployment.
+- **Developer Toolset**: Leverage tools like Hardhat, Keplr, ethers.js, web3.js, and Metamask, with comprehensive documentation to support your development journey.
 
-- Stand-alone open-source apps cater to a diverse array of B2B and B2C use cases. Our Swisstronik utility set aims to be broader and more convenient for developers compared to standard L1 projects.
+### Join us in reshaping the future of blockchain technology with Swisstronik!
+
+Connect with the Swisstronik community:
+
+[Website]() 🌐
+
+[Twitter]() 🐦
+
+[Discord]() 🐙
